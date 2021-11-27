@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student of Economics at PUCP. I am interested at Behavorial Economics, Ecological Economics, Political Economics, Applied Microeconomics, Gender and Inequality. 
+I am an undergraduate student of Economics at PUCP. I am interested in Behavorial Economics, Ecological Economics, Political Economics, Applied Microeconomics, Gender and Inequality. 
 
 ## Time to grow
-I am currently collaborating in the developing a social project in Pamplona Alta, Villa el Salvador, Lima, Peru, which aims to empower women recyclers in the area and strengthen community ties through the construction of an urban garden. The implementation team is made up of members of [Reciclaje.pe] (https://reciclaje.pe/) and [Ocupa tu Calle (OTC)](https://ocupatucalle.com/).
+I am currently collaborating in the development of a social project in Pamplona Alta, Villa el Salvador, Lima, Peru, which aims to empower women recyclers in the area and strengthen community ties through the construction of an urban garden. The implementation team is made up of members of [Reciclaje.pe] (https://reciclaje.pe/) and [Ocupa tu Calle (OTC)](https://ocupatucalle.com/).
 
 
