@@ -8,6 +8,9 @@ author_profile: true
 ## Member of the NGO [Reciclaje.pe](https://reciclaje.pe/)
 January 2021- Present
 
+## Participant in [Editatón: Visibilización de Mujeres Científicas Sociales](https://facultad.pucp.edu.pe/ciencias-sociales/notas-de-prensa/resultados-editaton-visibilizar-las-mujeres-cientificas-sociales/)
+October 2020 - December 2020
+
 ## Member of [Centro de Música y Danza PUCP](https://www.facebook.com/CEMDUCPUCP)
 September 2020 - Present
 

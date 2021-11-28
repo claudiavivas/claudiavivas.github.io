@@ -8,13 +8,16 @@ main:
 
   - #title: "Teaching"
     #url: /teaching/    
+        
+  - #title: "Publications"
+    #url: /publications/
+    
+  - title: "Research"
+    url: /research/
     
   - title: "Social Proyects and volunteering"
     url: /socialaction/
-        
-  - title: "Publications"
-    url: /publications/
-    
+
   - title: "CV"
     url: /cv/
     
