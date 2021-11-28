@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  socialaction:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _socialaction
+  # _portfolio
   - scope:
       path: ""
-      type: socialaction
+      type: portfolio
     values:
       layout: single
       author_profile: true
