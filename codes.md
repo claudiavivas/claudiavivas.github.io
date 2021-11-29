@@ -5,7 +5,7 @@ permalink: /codes/
 author_profile: true
 ---
 
-# Causal Inference and Machine Learning 
+# Machine Learning and Causal Inference 
 * 
 
 # Activities in Economics 2
