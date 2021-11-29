@@ -32,7 +32,7 @@ August 2019 - Present
 ## Participant of the project [Suyay](https://jpccperu.com/equipos/suyay/)
 April 2019 - July 2019
 
-## Organizer of the [Colloquium of Economics students](https://www.facebook.com/coloquioestudianteseconomiapucp)
+## Organizer of the [Coloquio de Estudiantes de Economía PUCP](https://www.facebook.com/coloquioestudianteseconomiapucp)
 January 2019 - May 2019
 
 ## Secretary of University Responsability at [Centro Federado de Ciencias Sociales PUCP](https://www.facebook.com/cf.sociales) 

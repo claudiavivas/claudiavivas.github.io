@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Web articles 
-* [El cambio es ahora. Movilización mundial por el clima](https://es.scribd.com/document/425967755/PuntoEdu-Ano-15-numero-482-2019) - [PuntoEdu](https://puntoedu.pucp.edu.pe/) with Valerie Iglesia Gómez
+* [El cambio es ahora. Movilización mundial por el clima](https://es.scribd.com/document/425967755/PuntoEdu-Ano-15-numero-482-2019) - [PuntoEdu](https://puntoedu.pucp.edu.pe/) , with Valeria Iglesias Gómez
 * [Consumo, regulación y criminalización de la marihuana 2021](https://economica.pe/consumo-regulacion-y-criminalizacion-de-la-marihuana/) - [Económica](https://economica.pe/)
 
 # Journalistic notes
@@ -17,4 +17,4 @@ author_profile: true
 * [La tributación Peruana en tiempos convulsionados](https://economica.pe/la-tributacion-peruana-en-tiempos-convulsionados/) - [Económica](https://economica.pe/)
 
 # Wikipedia artices
-* [Janina León](https://es.wikipedia.org/wiki/Janina_Le%C3%B3n)
+* Biography of [Janina León](https://es.wikipedia.org/wiki/Janina_Le%C3%B3n)
