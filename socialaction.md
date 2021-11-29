@@ -22,6 +22,8 @@ September 2020 - February 2021
 
 ## Member and founder of the social initiative [¡Recicla Chalaco!](https://www.facebook.com/Recicla.Chalaco/)
 June 2020 - August 2020
+Social Responsibility Initiative winner of the contest "RSU Student Initiatives Fund in response to COVID-
+19 ”organized by the [Dirección Académica de Responsabilidad Social (DARS) - PUCP](https://dars.pucp.edu.pe/). Recicla Chalaco seeks to strengthen capacities in safety, occupational health and promote spaces for socio-emotional containment in the context of Covid-19 for recyclers from the [Association of Recyclers ATRIMAC](https://www.facebook.com/Asociaci%C3%B3n-De-Recicladores-Atrimac-724623260914725). My job was to prepare the content of the learning modules and call the recyclers weekly as a follow-up. 
 
 ## Volunteer in [Hinchas de la Conservación](https://www.facebook.com/hinchasdelaconservacion)
 August 2019 - August 2020
