@@ -51,7 +51,7 @@ Suyay is a platform promoted by the group [Jóvenes Peruanos Frente al Cambio Cl
 ## Organizer of the [Coloquio de Estudiantes de Economía PUCP](https://www.facebook.com/coloquioestudianteseconomiapucp)
 January 2019 - May 2019
 
-oloquio de Estudiantes de Economía PUCP that aims to disseminate economic science, share academic researchs and generate debate. I collaborated with the coordination for the realization of the event. 
+Coloquio de Estudiantes de Economía PUCP that aims to disseminate economic science, share academic researchs and generate debate. I collaborated with the coordination for the realization of the event. 
 
 ## Secretary of University Social Responsability at [Centro Federado de Ciencias Sociales PUCP](https://www.facebook.com/cf.sociales) 
 January 2019 - August 2019
