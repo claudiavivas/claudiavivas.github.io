@@ -10,7 +10,7 @@ October 2020 - December 2020
 
 In commemoration of the Bicentennial of the Independence of Peru, the Faculty of Social Sciences proposes organized the "Editatón" that aimed to rescue the life and work of deceased pioneer women who entered and made important contributions to the development of Peruvian social thought and science usually. Thus, this event set out to write biographies of social scientists from Peru to be published on Wikipedia. I wrote the biography of Professor Janina Léon
 
-## Member of [Centro de Música y Danza PUCP](https://www.facebook.com/CEMDUCPUCP)
+## Member of [Centro de Música y Danza PUCP (CEMDUC)](https://www.facebook.com/CEMDUCPUCP)
 September 2020 - Present
 
 CEMDUC is the permanent cast of Peruvian music and dance of the Pontificia Universidad Católica del Perú (PUCP) that is made up of members of the university community, made up of students, graduates and / or university workers. Its objective is to complement the humanistic training of its members through knowledge, research, individual and collective practice, and the responsible dissemination of our musical and dance traditions. I am currently part of the CEMDUC dance group.
@@ -57,6 +57,10 @@ Coloquio de Estudiantes de Economía PUCP that aims to disseminate economic scie
 January 2019 - August 2019
 
 Secretary of University Social Responsibility, this secretariat aims to promote social responsibility in the Faculty of Social Sciences. I developed a volunteer plan, blood donation campaigns, support for other social student initiatives, and organization of events. Likewise, my position made me have influence and political decision within my faculty and university.
+
+## [Youth environmental promoter](https://www.gob.pe/institucion/minam/campa%C3%B1as/132-programa-voluntariado-jovenes-ambientales-del-bicentenario) - Ministry of the Environment (MINAM)
+
+December 2018 - May 2019
 
 ## Member and founder of [Coaliación Verde](https://www.facebook.com/Coalici%C3%B3n-Verde-786441915064180)
 March 2018 - March 2019
