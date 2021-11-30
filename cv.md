@@ -3,14 +3,12 @@ layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-You can see my cv here:
+You can see my CV here:
 
-<object data="/files/Claudia_Vivas.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/files/Claudia_Vivas.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/Claudia_Vivas.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="/files/Claudia_Vivas.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can also download my updated cv <a href="/files/CV_Claudia_Vivas.pdf" target="_blank">here</a>.
+You can also download my updated CV [here](/files/Claudia_Vivas.pdf) 
